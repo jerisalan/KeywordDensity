@@ -1,4 +1,4 @@
-# KeywordDensity
+# Keyword Density Analyzer
 Keyword Density Analysis of any HTML page to identify most relevant topics
 
 # Requirements
